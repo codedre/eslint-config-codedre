@@ -4,8 +4,9 @@
   "description": "ESLint and Prettier config setup",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
+  }
   "keywords": [
     "javascript",
     "ecmascript",
