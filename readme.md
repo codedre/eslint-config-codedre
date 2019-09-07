@@ -1,4 +1,4 @@
-https://img.shields.io/github/package-json/v/codedre/eslint-config-codedre?color=gre&label=eslint-config-codedre&style=for-the-badge
+![version badge](https://img.shields.io/github/package-json/v/codedre/eslint-config-codedre?color=gre&label=eslint-config-codedre&style=for-the-badge)
 
 # My Custom ESLint and Prettier Setup
 
