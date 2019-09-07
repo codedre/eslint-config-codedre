@@ -1,3 +1,5 @@
+https://img.shields.io/github/package-json/v/codedre/eslint-config-codedre?color=gre&label=eslint-config-codedre&style=for-the-badge
+
 # My Custom ESLint and Prettier Setup
 
 These are my settings for ESLint and Prettier that I use in my personal projects. It is based off [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) and [eslint-config-hzdg](https://github.com/hzdg/linter-configs/blob/master/JavaScript/eslint-config-hzdg).
