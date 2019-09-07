@@ -1,12 +1,12 @@
 {
-  "name": "eslint-config-codedre",
+  "name": "@codedre/eslint-config-codedre",
   "version": "1.0.0",
   "description": "ESLint and Prettier config setup",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix"
-  }
+  },
   "keywords": [
     "javascript",
     "ecmascript",
@@ -42,5 +42,13 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^2.0.1",
     "prettier": "^1.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedre/eslint-config-codedre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codedre/eslint-config-codedre/issues"
+  },
+  "homepage": "https://github.com/codedre/eslint-config-codedre#readme"
 }
