@@ -14,6 +14,12 @@ These are my settings for ESLint and Prettier that I use in my personal projects
 - Fixes issues and formatting errors with Prettier
 - Lints + Fixes React via eslint-config-airbnb
 
+## Installation
+
+```bash
+$ npx install-peerdeps --dev @codedre/eslint-config-codedre
+```
+
 ## With VS Code
 
 Here are the instructions for VS Code:
