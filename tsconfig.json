@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "jsx": "preserve",
+    "strict": true,
+    "target": "es6"
+  },
+  "exclude": ["node_modules", "public", ".cache"]
+}

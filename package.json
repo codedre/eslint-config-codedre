@@ -1,6 +1,6 @@
 {
   "name": "@codedre/eslint-config-codedre",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "ESLint and Prettier config setup",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,14 @@
     "eslint",
     "lint",
     "config",
-    "prettier"
+    "prettier",
+    "typescript"
   ],
   "author": "Andre Shonubi <andre@codedre.com>",
   "license": "MIT",
   "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.0",
+    "@typescript-eslint/parser": "^2.3.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.3.0",
     "eslint-config-airbnb": "^18.0.1",
@@ -28,9 +31,12 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^2.0.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.3"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.0",
+    "@typescript-eslint/parser": "^2.3.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.3.0",
     "eslint-config-airbnb": "^18.0.1",
@@ -41,7 +47,8 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^2.0.1",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.3"
   },
   "repository": {
     "type": "git",
