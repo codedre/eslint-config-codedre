@@ -3,8 +3,8 @@ module.exports = {
     "airbnb",
     "prettier",
     "prettier/react",
-    'plugin:eslint-comments/recommended',
-    'plugin:import/errors',
+    "plugin:eslint-comments/recommended",
+    "plugin:import/errors",
   ],
   "parser": "babel-eslint",
   "parserOptions": {
@@ -23,8 +23,9 @@ module.exports = {
   "rules": {
     "eslint-comments/no-unused-disable": 'error',
     "eslint-comments/disable-enable-pair": 'off',
-    'react-hooks/rules-of-hooks': 'error',
-    'react-hooks/exhaustive-deps': 'error',
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react-hooks/rules-of-hooks": 'error',
+    "react-hooks/exhaustive-deps": 'error',
     "prettier/prettier": [
       "error",
       {
