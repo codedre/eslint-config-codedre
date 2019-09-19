@@ -20,6 +20,16 @@ These are my settings for ESLint and Prettier that I use in my personal projects
 $ npx install-peerdeps --dev @codedre/eslint-config-codedre
 ```
 
+Create `.eslintrc` file in the root of your project and add the following:
+
+```
+{
+  "extends": [
+    "@codedre/codedre"
+  ]
+}
+```
+
 ## With VS Code
 
 Here are the instructions for VS Code:
